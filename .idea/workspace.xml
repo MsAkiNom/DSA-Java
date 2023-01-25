@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="palindrome check">
-      <change afterPath="$PROJECT_DIR$/src/J1/FlowOfProgram/ArmstrongNumber.java" afterDir="false" />
+    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="armstrong number checked">
+      <change afterPath="$PROJECT_DIR$/src/J2/Functions/CheckPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/J2/Functions/FactorialNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673981640796</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="armstrong number checked">
+      <created>1674646933729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674646933729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +95,7 @@
     <MESSAGE value="Leap year program added" />
     <MESSAGE value="fibonacci series calculated" />
     <MESSAGE value="palindrome check" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome check" />
+    <MESSAGE value="armstrong number checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="armstrong number checked" />
   </component>
 </project>
