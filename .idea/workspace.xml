@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="armstrong number checked">
-      <change afterPath="$PROJECT_DIR$/src/J2/Functions/CheckPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/J2/Functions/FactorialNumber.java" afterDir="false" />
+    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="prime and factorial numbers added">
+      <change afterPath="$PROJECT_DIR$/src/J2/Functions/PythagoreanTriplet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674646933729</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="prime and factorial numbers added">
+      <created>1674655546062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674655546062</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +102,7 @@
     <MESSAGE value="fibonacci series calculated" />
     <MESSAGE value="palindrome check" />
     <MESSAGE value="armstrong number checked" />
-    <option name="LAST_COMMIT_MESSAGE" value="armstrong number checked" />
+    <MESSAGE value="prime and factorial numbers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="prime and factorial numbers added" />
   </component>
 </project>
