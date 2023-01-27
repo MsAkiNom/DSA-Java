@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="prime and factorial numbers added">
-      <change afterPath="$PROJECT_DIR$/src/J2/Functions/PythagoreanTriplet.java" afterDir="false" />
+    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="pythagorean triplet question added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/J2/Functions/PythagoreanTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/J2/Functions/PythagoreanTriplet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674655546062</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pythagorean triplet question added">
+      <created>1674769281817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674769281817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="palindrome check" />
     <MESSAGE value="armstrong number checked" />
     <MESSAGE value="prime and factorial numbers added" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime and factorial numbers added" />
+    <MESSAGE value="pythagorean triplet question added" />
+    <option name="LAST_COMMIT_MESSAGE" value="pythagorean triplet question added" />
   </component>
 </project>
