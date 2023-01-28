@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="prime numbers between ranges added">
-      <change afterPath="$PROJECT_DIR$/src/J2/Functions/SumNaturalNumbers.java" afterDir="false" />
+    <list default="true" id="611bbd98-c1de-41bd-960d-5dda92d5cff2" name="Changes" comment="sum of natural numbers added">
+      <change afterPath="$PROJECT_DIR$/src/J3/Arrays/BuildArrayPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674918995107</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="sum of natural numbers added">
+      <created>1674919608081</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674919608081</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +142,7 @@
     <MESSAGE value="pythagorean triplet question added" />
     <MESSAGE value="pythagorean triplet solution added" />
     <MESSAGE value="prime numbers between ranges added" />
-    <option name="LAST_COMMIT_MESSAGE" value="prime numbers between ranges added" />
+    <MESSAGE value="sum of natural numbers added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of natural numbers added" />
   </component>
 </project>
