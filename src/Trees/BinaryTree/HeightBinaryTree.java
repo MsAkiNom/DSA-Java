@@ -1,19 +1,8 @@
-package Trees;
+package Trees.BinaryTree;
 
 // Height of a binary tree/ maximum depth of a binary tree
 
-// A binary tree node
-class Node {
-    int data;
-    Node left, right;
-
-    Node(int item)
-    {
-        data = item;
-        left = right = null;
-    }
-}
-public class BinaryTree {
+public class HeightBinaryTree {
     Node root;
 
     /* Compute the "maxDepth" of a tree -- the number of
@@ -37,7 +26,7 @@ public class BinaryTree {
     }
     public static void main(String[] args) {
 
-        BinaryTree tree = new BinaryTree();
+        HeightBinaryTree tree = new HeightBinaryTree();
 
         tree.root = new Node(1);
         tree.root.left = new Node(2);

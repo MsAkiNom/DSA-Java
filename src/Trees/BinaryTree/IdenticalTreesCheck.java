@@ -1,25 +1,14 @@
-package Trees;
+package Trees.BinaryTree;
 
 // Java program to see if two trees are identical
 
-// A binary tree node
-class Node1 {
-    int data;
-    Node1 left, right;
-
-    Node1(int item)
-    {
-        data = item;
-        left = right = null;
-    }
-}
 public class IdenticalTreesCheck {
 
-    Node1 root1, root2;
+    Node root1, root2;
 
     /* Given two trees, return true if they are
     structurally identical */
-    boolean identicalTrees(Node1 a, Node1 b)
+    boolean identicalTrees(Node a, Node b)
     {
         /*1. both empty */
         if (a == null && b == null)
@@ -38,17 +27,17 @@ public class IdenticalTreesCheck {
     public static void main(String[] args) {
         IdenticalTreesCheck tree = new IdenticalTreesCheck();
 
-        tree.root1 = new Node1(1);
-        tree.root1.left = new Node1(2);
-        tree.root1.right = new Node1(3);
-        tree.root1.left.left = new Node1(4);
-        tree.root1.left.right = new Node1(5);
+        tree.root1 = new Node(1);
+        tree.root1.left = new Node(2);
+        tree.root1.right = new Node(3);
+        tree.root1.left.left = new Node(4);
+        tree.root1.left.right = new Node(5);
 
-        tree.root2 = new Node1(1);
-        tree.root2.left = new Node1(2);
-        tree.root2.right = new Node1(4);
-        tree.root2.left.left = new Node1(3);
-        tree.root2.left.right = new Node1(5);
+        tree.root2 = new Node(1);
+        tree.root2.left = new Node(2);
+        tree.root2.right = new Node(4);
+        tree.root2.left.left = new Node(3);
+        tree.root2.left.right = new Node(5);
 
         // Function call
         if (tree.identicalTrees(tree.root1, tree.root2))
